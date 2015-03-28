@@ -1,0 +1,23 @@
+C:\Users\PC\AppData\Local\Temporary Projects\MCSE_Create\bin\Release\MCSE_Create.exe
+C:\Users\PC\AppData\Local\Temporary Projects\MCSE_Create\bin\Release\MCSE_Create.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\MCSE_Create\bin\Release\MCSE_Create.xml
+C:\Users\PC\AppData\Local\Temporary Projects\MCSE_Create\obj\x86\Release\MCSE_Create.Form1.resources
+C:\Users\PC\AppData\Local\Temporary Projects\MCSE_Create\obj\x86\Release\MCSE_Create.Resources.resources
+C:\Users\PC\AppData\Local\Temporary Projects\MCSE_Create\obj\x86\Release\MCSE_Create.vbproj.GenerateResource.Cache
+C:\Users\PC\AppData\Local\Temporary Projects\MCSE_Create\obj\x86\Release\MCSE_Create.exe
+C:\Users\PC\AppData\Local\Temporary Projects\MCSE_Create\obj\x86\Release\MCSE_Create.xml
+C:\Users\PC\AppData\Local\Temporary Projects\MCSE_Create\obj\x86\Release\MCSE_Create.pdb
+C:\Users\PC\documents\visual studio 2010\Projects\MCSE_Create\MCSE_Create\obj\x86\Release\MCSE_Create.exe
+C:\Users\PC\documents\visual studio 2010\Projects\MCSE_Create\MCSE_Create\obj\x86\Release\MCSE_Create.xml
+C:\Users\PC\documents\visual studio 2010\Projects\MCSE_Create\MCSE_Create\obj\x86\Release\MCSE_Create.pdb
+C:\Users\PC\documents\visual studio 2010\Projects\MCSE_Create\MCSE_Create\bin\Release\MCSE_Create.exe
+C:\Users\PC\documents\visual studio 2010\Projects\MCSE_Create\MCSE_Create\bin\Release\MCSE_Create.pdb
+C:\Users\PC\documents\visual studio 2010\Projects\MCSE_Create\MCSE_Create\bin\Release\MCSE_Create.xml
+C:\Users\PC\documents\visual studio 2010\Projects\MCSE_Create\MCSE_Create\obj\x86\Release\MCSE_Create.Form1.resources
+C:\Users\PC\documents\visual studio 2010\Projects\MCSE_Create\MCSE_Create\obj\x86\Release\MCSE_Create.Resources.resources
+C:\Users\PC\documents\visual studio 2010\Projects\MCSE_Create\MCSE_Create\obj\x86\Release\MCSE_Create.vbproj.GenerateResource.Cache
+C:\Users\PC\documents\visual studio 2010\Projects\MCSE_Create\MCSE_Create\obj\x86\Release\MCSE_Create.FirstSteps.resources
+C:\Users\PC\documents\visual studio 2010\Projects\MCSE_Create\MCSE_Create\obj\x86\Release\MCSE_Create.MCSEConfig.resources
+C:\Users\PC\documents\visual studio 2010\Projects\MCSE_Create\MCSE_Create\obj\x86\Release\MCSE_Create.SecondSteps.resources
+C:\Users\PC\documents\visual studio 2010\Projects\MCSE_Create\MCSE_Create\obj\x86\Release\MCSE_Create.SetUp.resources
+C:\Users\PC\documents\visual studio 2010\Projects\MCSE_Create\MCSE_Create\obj\x86\Release\MCSE_Create.ThirdSteps.resources
